@@ -4,7 +4,7 @@ This repo is a summary of AZ-204. Done with the help of Custom GPT.
 
 **Link to GPT**: [SummarizerGPT](https://chatgpt.com/g/g-IaBqFNdW2-summarizergpt)
 
-**Link to Dummy Chat**: [Chat Link]([https://chatgpt.com/share/faeef0d5-38f7-4554-8ab7-6338dfb791e4](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd))
+**Link to Dummy Chat**: [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
 
 ## How to Contribute 🤝
 
