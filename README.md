@@ -6,7 +6,7 @@ The aim is to reduce the time taken to go through Azure courses by a third, no t
 ## Tools used 🛠️
 **Link to GPT**: [SummarizerGPT](https://chatgpt.com/g/g-IaBqFNdW2-summarizergpt)
 
-**Link to Dummy Chat**: [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
+**Link to an example chat**: [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
 
 **Usage**
 - Start by copying any unstructured content and copy back the markdown output 
