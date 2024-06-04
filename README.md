@@ -8,6 +8,8 @@ The aim is to reduce the time taken to go through Azure courses by a third, no t
 
 **Link to Dummy Chat**: [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
 
+**Usage**
+- Start by copying any unstructured content and copy back the markdown output 
 
 ### Courses Covered Till Now 📚:
 - **[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#certification-prepare-for-the-exam)**
