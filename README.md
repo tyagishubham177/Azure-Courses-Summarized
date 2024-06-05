@@ -6,8 +6,6 @@ The aim is to reduce the time taken to go through Azure courses by a third. No t
 ## Tools used 🛠️
 **Link to GPT**: [SummarizerGPT](https://chatgpt.com/g/g-IaBqFNdW2-summarizergpt)
 
-**Link to an example chat**: [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
-
 
 ### Courses Covered Till Now 📚:
 - **[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#certification-prepare-for-the-exam)**
@@ -16,11 +14,12 @@ The aim is to reduce the time taken to go through Azure courses by a third. No t
 ## How to Contribute 🤝
 
 1. **Add Text from MS Learn**:
-   - Start by copying any unstructured content from MS Learn and copy back the markdown output.
+   - Open the [SummarizerGPT](https://chatgpt.com/g/g-IaBqFNdW2-summarizergpt)
+   - Start by copying any unstructured content from MS Learn.
 2. **Copy Output from GPT**:
-   - Utilize the custom GPT for generating Markdown files.
+   - Copy back the output from the Chat to the `.md` files [Chat Link](https://chatgpt.com/share/5cadd5d2-b7bf-4f52-9089-b5404831e9fd)
 3. **Keep Adding .md Files**:
-   - Continuously add `.md` files for each course module you're learning.
+   - Continuously `upload/push` `.md` files for each course module you're learning.
 
 
 **Happy Learning!** 🚀
