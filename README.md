@@ -8,7 +8,8 @@ The aim is to reduce the time taken to go through Azure courses by a third. No t
 
 
 ### Courses Covered Till Now 📚:
-- **[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#certification-prepare-for-the-exam)**
+- **[AZ-204](https://learn.microsoft.com/en-us/training/courses/az-204t00)**
+- **[AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)**
 
 
 ## How to Contribute 🤝
