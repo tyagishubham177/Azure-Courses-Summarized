@@ -1,0 +1,81 @@
+# Machine Learning Overview
+
+**Definition:**
+- Originates in statistics and mathematical modeling of data.
+- Uses past observations to predict unknown outcomes or values.
+
+**Examples:**
+- **Ice Cream Sales Prediction:**
+  - Combines historical sales and weather records to predict daily sales.
+- **Medical Diagnosis:**
+  - Uses clinical data to predict diabetes risk based on patient measurements.
+- **Penguin Species Identification:**
+  - Automates identification based on physical attributes.
+
+**Function of Machine Learning:**
+- Based on mathematics and statistics.
+- A machine learning model encapsulates a function to calculate output values from input values.
+- The process of defining the function is called training; predicting new values is called inferencing.
+
+<img src="https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/machine-learning.png" alt="Static Website Configuration Screenshot" width="500" height="300"> 
+
+**Training and Inferencing:**
+
+**Training Phase:**
+- Uses past observations with known features (x) and labels (y).
+- Features (x) are inputs, and the label (y) is the predicted value.
+- Example features:
+  - Ice cream sales: Weather measurements (temperature, rainfall).
+  - Medical: Patient's clinical measurements (weight, blood glucose).
+  - Antarctic research: Penguin physical attributes (flipper length, bill width).
+
+**Inferencing Phase:**
+- After training, the model can predict labels for new input features.
+- The trained model applies the function \( f \) to input values \( x \) to calculate \( y \).
+- The output is often denoted as \( \hat{y} \) (y-hat) to indicate it's a prediction.
+
+**Mathematical Representation:**
+- The relationship between features and labels is encapsulated in the function:
+  \[
+  y = f(x)
+  \]
+
+# Types of Machine Learning
+
+<img src="https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/machine-learning-types.png" alt="Static Website Configuration Screenshot" width="500" height="300"> 
+
+## Supervised Machine Learning
+**Definition:**
+- Uses training data with known feature values and label values.
+- Determines the relationship between features and labels to predict unknown labels.
+
+**Types:**
+- **Regression:** Predicts numeric values.
+  - Examples:
+    - Ice cream sales prediction based on weather.
+    - Property price prediction based on size and location.
+    - Car fuel efficiency prediction based on engine size and dimensions.
+
+- **Classification:** Predicts categorization or class.
+  - **Binary Classification:** Predicts one of two mutually exclusive outcomes.
+    - Examples:
+      - Diabetes risk prediction based on clinical metrics.
+      - Loan default prediction based on income and credit history.
+      - Marketing response prediction based on demographics and past purchases.
+  - **Multiclass Classification:** Predicts one of multiple possible classes.
+    - Examples:
+      - Penguin species identification (Adelie, Gentoo, Chinstrap).
+      - Movie genre classification (comedy, horror, romance, etc.).
+    - **Multilabel Classification:** Predicts multiple valid labels for a single observation (e.g., a movie being both science fiction and comedy).
+
+## Unsupervised Machine Learning
+**Definition:**
+- Uses data with only feature values and no known labels.
+- Identifies relationships between features.
+
+**Type:**
+- **Clustering:** Groups observations based on feature similarities.
+  - Examples:
+    - Grouping flowers based on size and petal count.
+    - Identifying similar customer groups based on demographics and behavior.
+  - Used to determine the set of classes before training a classification model.
